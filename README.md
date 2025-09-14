@@ -62,5 +62,7 @@ Pilihannya:
 <h2>Pilihan Ke-empat</h2>
 <P>Memasuki pilihan terakhir yaitu pilihan ke empat kegunaan nya yaitu mengakhiri program selain mengakhiri program akan memunculkan output: "Program selesai, Terima kasih" </P>
 <img width="1553" height="320" alt="Screenshot 2025-09-14 155641" src="https://github.com/user-attachments/assets/693cd32c-6207-4d41-9b37-72915799ad54" />
+
 <br>
+
 <p>Sekian Minpro dari saya yang bertema daftar target bulanan Terima kasih </p>
