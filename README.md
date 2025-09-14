@@ -20,3 +20,8 @@ Sistem Informasi Kelas C 2025
 <p>Program Daftar target bulanan jika di run/jalankan akan muncul menu yang terdiri dari 4 pilihan
 Pilihannya:
 </p>
+<p>1. Tambah target untuk, menamnbahkan daftar yang ingin diketik </p>
+<p>2. Upgrade progress untuk, menambah proses jika duit terkmpul (memakai persen) </p>
+<p>3. Hapus target untuk, menghapus target yang sudah tercapai atau mengganti target yang dikejar </p>
+<p>4. Keluar, merupakan akhir dari sebuah program jika memilih ini</p>
+<p>Setelah itu diberikan input untuk memilih pilihan dari 1-4, jika menginput selain 1-4 maka akan keluar output: "pilihan tidak ada". lalu juga akan muncul output pilihan: "mau lanjut mengisi? (yes/no), gunanya ada output ini adalah supaya bisa memilih menu lagi</p>
