@@ -36,3 +36,12 @@ Pilihannya:
 <P>Jika sudah masuk pada pilihan pertama maka menampilkan input masukan target baru, yang jika sudah di isi akan muncul nama target dan persen nya </P>
 <img width="1550" height="360" alt="Screenshot 2025-09-14 151747" src="https://github.com/user-attachments/assets/1835e796-c31d-4c51-b5bd-025858f0b975" />
 <img width="1546" height="246" alt="Screenshot 2025-09-14 151647" src="https://github.com/user-attachments/assets/3ecd14d3-27c7-4346-ac62-aaf00607e3fe" />
+
+<br>
+<br>
+<br>
+
+<h2>Pilihan Kedua</h2>
+<P>Menambahkan persen pada target yang ingin dicapai, bisa menambahkan persen jika ad target yang dituju jika lm ada target yang dituju maka akan muncul output:"belum ada target diupgrade"</P>
+<img width="1558" height="484" alt="Screenshot 2025-09-14 153309" src="https://github.com/user-attachments/assets/29a5b302-c527-417a-a542-63930520ff97" />
+<img width="1552" height="274" alt="Screenshot 2025-09-14 153224" src="https://github.com/user-attachments/assets/e73dc129-6933-46a9-bf3d-02b79feeb353" />
