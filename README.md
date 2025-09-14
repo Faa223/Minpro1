@@ -9,7 +9,7 @@ Sistem Informasi Kelas C 2025
 <br>
 <br>
 <h2> Flowchart minpro-Daftar target bulanan</h2>
-<img width="736" height="857" alt="Screenshot 2025-09-14 144415" src="https://github.com/user-attachments/assets/dd51ff80-5383-4db0-85f0-2d57daf36744" />
+<img width="764" height="858" alt="Screenshot 2025-09-14 152456" src="https://github.com/user-attachments/assets/e1f6762b-3576-4313-8f9d-9d5a8ad157e9" />
 
 <br>
 <br>
