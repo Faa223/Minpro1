@@ -41,7 +41,7 @@ Pilihannya:
 <br>
 <br>
 
-<h2>Pilihan Kedua</h2>
+<h2>Pilihan Ke-dua</h2>
 <P>Memasuki pilihan kedua yaitu: Menambahkan persen pada target yang ingin dicapai, bisa menambahkan persen jika ad target yang dituju jika belum ada target yang dituju maka akan muncul output:"belum ada target diupgrade"</P>
 <img width="1558" height="484" alt="Screenshot 2025-09-14 153309" src="https://github.com/user-attachments/assets/29a5b302-c527-417a-a542-63930520ff97" />
 <img width="1552" height="274" alt="Screenshot 2025-09-14 153224" src="https://github.com/user-attachments/assets/e73dc129-6933-46a9-bf3d-02b79feeb353" />
@@ -50,7 +50,16 @@ Pilihannya:
 <br>
 <br>
 
-<h2>Pilihan Ketiga</h2>
+<h2>Pilihan Ke-tiga</h2>
 <p>Memasuki pilihan ketiga yaitu: Menghapus target yang sudah tercapai atau salah mengisi, bisa menghapus jika sudah ad target kalau belum ad target maka akan muncul output: "belum ada target untuk dihapus"</p>
 <img width="1557" height="284" alt="Screenshot 2025-09-14 154156" src="https://github.com/user-attachments/assets/3338f635-95c4-4d7f-b649-b25b391c8c5a" />
 <img width="1554" height="445" alt="Screenshot 2025-09-14 154134" src="https://github.com/user-attachments/assets/d683fb43-b52a-416c-8017-6060c5c02660" />
+
+<br>
+<br>
+<br>
+
+<h2>Pilihan Ke-empat</h2>
+<P>Memasuki pilihan terakhir yaitu pilihan ke empat kegunaan nya yaitu mengakhiri program selain mengakhiri program akan memunculkan output: "Program selesai, Terima kasih" </P>
+<br>
+<p>Sekian Minpro dari daftar target bulanan Terima kasih </p>
