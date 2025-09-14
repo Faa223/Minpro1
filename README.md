@@ -26,6 +26,7 @@ Pilihannya:
 <p>3. Hapus target untuk, menghapus target yang sudah tercapai atau mengganti target yang dikejar </p>
 <p>4. Keluar, merupakan akhir dari sebuah program jika memilih ini</p>
 <p>Setelah itu diberikan input untuk memilih pilihan dari 1-4, jika menginput selain 1-4 maka akan keluar output: "pilihan tidak ada". lalu juga akan muncul input pilihan: "mau lanjut mengisi? (yes/no), gunanya ada input ini adalah supaya bisa memilih menu lagi</p>
+<img width="1545" height="258" alt="Screenshot 2025-09-14 150600" src="https://github.com/user-attachments/assets/fd546db2-d329-4810-b2a1-68b07e7b860d" />
 
 <br>
 <br>
