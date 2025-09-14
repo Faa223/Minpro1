@@ -24,4 +24,13 @@ Pilihannya:
 <p>2. Upgrade progress untuk, menambah proses jika duit terkmpul (memakai persen) </p>
 <p>3. Hapus target untuk, menghapus target yang sudah tercapai atau mengganti target yang dikejar </p>
 <p>4. Keluar, merupakan akhir dari sebuah program jika memilih ini</p>
-<p>Setelah itu diberikan input untuk memilih pilihan dari 1-4, jika menginput selain 1-4 maka akan keluar output: "pilihan tidak ada". lalu juga akan muncul output pilihan: "mau lanjut mengisi? (yes/no), gunanya ada output ini adalah supaya bisa memilih menu lagi</p>
+<p>Setelah itu diberikan input untuk memilih pilihan dari 1-4, jika menginput selain 1-4 maka akan keluar output: "pilihan tidak ada". lalu juga akan muncul input pilihan: "mau lanjut mengisi? (yes/no), gunanya ada input ini adalah supaya bisa memilih menu lagi</p>
+
+<br>
+<br>
+<br>
+
+<h2>Pilihan Pertama</h2>
+<P>Jika sudah masuk pada pilihan pertama maka menampilkan input masukan target baru, yang jika sudah di isi akan muncul nama target dan persen nya </P>
+<img width="1550" height="360" alt="Screenshot 2025-09-14 151747" src="https://github.com/user-attachments/assets/1835e796-c31d-4c51-b5bd-025858f0b975" />
+<img width="1546" height="246" alt="Screenshot 2025-09-14 151647" src="https://github.com/user-attachments/assets/3ecd14d3-27c7-4346-ac62-aaf00607e3fe" />
