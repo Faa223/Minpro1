@@ -18,6 +18,7 @@ Sistem Informasi Kelas C 2025
 <h2>Output Menu</h2>
 <img width="1538" height="200" alt="Screenshot 2025-09-14 145111" src="https://github.com/user-attachments/assets/e8eab0a4-d611-4129-983c-813e2fa0f378" />
 <p>Program Daftar target bulanan jika di run/jalankan akan muncul menu yang terdiri dari 4 pilihan
+  <br>
 Pilihannya:
 </p>
 <p>1. Tambah target untuk, menamnbahkan daftar yang ingin diketik </p>
